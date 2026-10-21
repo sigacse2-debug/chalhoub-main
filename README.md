@@ -77,3 +77,4 @@ The header cart count is updated to reflect the current cart state. Failed reque
 5. Loading and Layout Stability
 
 The carousel is designed to preserve its layout while product images and scripts load. Stable image dimensions and consistent card sizing help prevent product cards from shifting during initialization.
+
