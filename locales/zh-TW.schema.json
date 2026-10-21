@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "names": {
     "404": "404",
@@ -574,7 +583,8 @@
     "input_style": "輸入框樣式",
     "selected_button_style": "已選取按鈕樣式",
     "open_by_default": "預設為開啟",
-    "title_preset": "標題預設設定"
+    "title_preset": "標題預設設定",
+    "customer_account_menu": "顧客帳號選單"
   },
   "options": {
     "apple": "Apple",

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "categories": {
     "banners": "لافتات",
@@ -1091,7 +1100,8 @@
     "top_row_background": "خلفية الصف العلوي",
     "top_row_text": "نص الصف العلوي",
     "bottom_row_background": "خلفية الصف السفلي",
-    "bottom_row_text": "نص الصف السفلي"
+    "bottom_row_text": "نص الصف السفلي",
+    "customer_account_menu": "قائمة حساب العميل"
   },
   "text_defaults": {
     "accordion_heading": "عنوان القائمة المنسدلة",
